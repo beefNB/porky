@@ -1,4 +1,4 @@
-package com.beefnb.porky;
+package com.beefnb.porky.sample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
